@@ -6,8 +6,9 @@ $year_of_birth_for_Peter = 2005;
 
 $current_year = (int)date("Y");
 
-echo "Mary is ".($current_year - $year_of_birth_for_Mary)." years old<br>";
-echo "John is ".($current_year - $year_of_birth_for_John).
-" years old<br>";
+echo "<br>Mary is ".($current_year - $year_of_birth_for_Mary).
+"years old";
+echo "<br>John is ".($current_year - $year_of_birth_for_John).
+"years old";
 echo "Peter is ".($current_year - $year_of_birth_for_Peter).
-" years old<br>";
+"years old<br>";
