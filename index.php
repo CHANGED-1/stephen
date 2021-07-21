@@ -20,7 +20,7 @@ echo "Peter is ".($current_year - $year_of_birth_for_Peter).
 </head>
 <body>
 <h1>This is a test with Php and html together</h1>
-<a href="master.php">Master page<br><br></a>
+<a href="mysql_php.php">Master page<br><br></a>
 </body>
 </html>
 <?php
